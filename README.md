@@ -1,2 +1,5 @@
 # linux-projeto2-iac
-Linux projecto 2 - DIO SANTANDER
+Linux projeto 2 - DIO SANTANDER
+
+Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
+
